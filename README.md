@@ -16,6 +16,10 @@ To Create a landscape using various assets and plugins.
 10. We have to adjust the size of our objects by using scale option in details menu.
 11. We can also change the direction and orientation of the objects in the details menu using rotaion option.
 12. After creating a proper landscape and required assets we have to save our level.
+~~~
+Developed by: Koduru Sanath Kumar Reddy
+Registered number: 212221240024
+~~~
    
    
    
